@@ -78,7 +78,7 @@ python submit.py -t 5f1ba9f600843e65 -f p1_data_cleaning/answer_1.csv
 
 ### ⌨️ 如何使用
 
-在项目根目录运行，脚本会引导你完成后续所有步骤。更详细的说明请参考 [**`bruteforce_solver_readme.md`**](https://www.google.com/search?q=./bruteforce_solver_readme.md)。
+在项目根目录运行，脚本会引导你完成后续所有步骤。更详细的说明请参考 [**bruteforce_solver_readme.md**](./bruteforce_solver_readme.md)。
 
 ```bash
 python bruteforce_solver.py

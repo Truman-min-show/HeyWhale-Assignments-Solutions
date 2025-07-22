@@ -42,7 +42,6 @@ mean_distances = distances.mean(axis=1)
 # 4. 找到平均距离最小的点的索引
 # np.argmin 返回数组中最小值的索引
 optimal_center_index = np.argmin(mean_distances)
-# optimal_center_index 的结果是 53
 a2 = optimal_center_index
 
 

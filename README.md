@@ -1,11 +1,11 @@
-# HeyWhale 学习与竞赛解决方案（全20学分）
+# HeyWhale 学习与竞赛解决方案（更新中）
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## 📖 项目简介
 
-本仓库是我在 **[和鲸社区夏令营](https://www.heywhale.com/landing/2025summercamp)** 学习过程中的个人项目与解决方案集合。（目前已将20个学分的全部内容更新完毕）
+本仓库是我在 **[和鲸社区夏令营](https://www.heywhale.com/landing/2025summercamp)** 学习过程中的个人项目与解决方案集合。
 
 仓库的核心内容包括：
 1.  **各关卡作业的解决方案代码与提交文件**。

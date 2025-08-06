@@ -1,4 +1,4 @@
-# HeyWhale 学习与竞赛解决方案（更新中）
+# HeyWhale 学习与竞赛解决方案（已更新完全部24学分，后续可能会有修改）
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)

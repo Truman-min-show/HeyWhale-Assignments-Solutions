@@ -1,4 +1,4 @@
-# HeyWhale 学习与竞赛解决方案（已更新完全部24学分，后续可能会有修改）
+# HeyWhale 学习与竞赛解决方案
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -64,24 +64,6 @@ python submit.py -t <你的Token> -f <答案文件的相对路径>
 **示例:**
 ```bash
 python submit.py -t 5f1ba9f600843e65 -f p1_data_cleaning/answer_1.csv
-```
-
-## 💡 单选题自动穷举脚本 (`bruteforce_solver.py`)
-
-这个实习其实很无聊，但学分还是得拿到手。对于只有唯一答案的选择题关卡，手动试错非常繁琐。本脚本可以将这一过程自动化，智能地“猜”答案。
-
-### ✨ 特性
-
-  * **交互式设置**：通过问答形式配置关卡、题目数量等信息。
-  * **智能穷举**：自动记录并排除错误答案，只对失败的题目进行重试，不会影响已正确的答案。
-  * **全自动提交**：内嵌式调用 `submit.py`，无需用户二次操作。
-
-### ⌨️ 如何使用
-
-在项目根目录运行，脚本会引导你完成后续所有步骤。更详细的说明请参考 [**bruteforce_solver_readme.md**](./bruteforce_solver_readme.md)。
-
-```bash
-python bruteforce_solver.py
 ```
 
 ## 📄 许可证 (License)
